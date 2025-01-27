@@ -1,8 +1,8 @@
 # emacs-theme-switcher
 
- Simple Time Switcher for Emacs
+ Simple Theme Switcher for Emacs
 
-This is a simple Emacs package that allows you to switch between different time zones or times easily.
+This library allows you to switch themes depending on timeily.
 
 ## Installation
 You can install this package by adding it to your Emacs configuration:
